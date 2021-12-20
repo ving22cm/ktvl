@@ -1,0 +1,258 @@
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Project 1.exe.config
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Project 1.exe
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Project 1.pdb
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csprojAssemblyReference.cache
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.Form1.resources
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.exe.licenses
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.CopyComplete
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.exe
+C:\Users\TheVinh\Desktop\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.pdb
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Project 1.exe.config
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Project 1.exe
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Project 1.pdb
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.Dataviz.WinForms.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.Licensing.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.Dataviz.WinForms.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.CreateRemembe.resources
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.Login.resources
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.Main.resources
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.ContentFile.resources
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.DesignSpace.resources
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.ProjectFile.resources
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.TestMenu.resources
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.GenerateResource.cache
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.exe.licenses
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.CopyComplete
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.exe
+T:\C#\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.pdb
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Project 1.exe.config
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Project 1.exe
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Project 1.pdb
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Interop.WMPLib.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csprojAssemblyReference.cache
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Interop.WMPLib.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.ResolveComReference.cache
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.CreateRemembe.resources
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.Login.resources
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.Main.resources
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.ContentFile.resources
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.DesignSpace.resources
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.ProjectFile.resources
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project_1.TestMenu.resources
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.exe.licenses
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.csproj.CopyComplete
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.exe
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\obj\Debug\Project 1.pdb
+C:\Users\TheVinh\Desktop\New folder\Project-1-SelfStudy\Self Study\Project 1\bin\Debug\Guna.UI2.dll
